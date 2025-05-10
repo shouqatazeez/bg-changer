@@ -51,21 +51,10 @@ function App() {
          <button
          onClick={() =>setColor("Brown")} className='outline-none px-4 py-1 text-amber-50 rounded-full shadow-sm ' style={{backgroundColor:"Brown"}}
          >Brown</button>
-
-
-
-
-
-
-
-
-
-          </div> 
-          </div> 
-      </div>
-      
-    
-  )
+        </div> 
+      </div> 
+  </div>
+)
 }
 
 export default App
